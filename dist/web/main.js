@@ -1,0 +1,1 @@
+const e={args:["captcha=dhjfalsdkfrhqopiweunfajshdflkjhlqwkjdhflsakdjfhn"],canvasResizePolicy:2,executable:"Satos",experimentalVK:!1,fileSizes:{"Satos.pck":62384,"Satos.wasm":49282035},focusCanvas:!0,gdextensionLibs:[]},a=new window.Engine(e);a.startGame();

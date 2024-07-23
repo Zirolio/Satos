@@ -1,0 +1,18 @@
+body {
+	touch-action: none;
+	margin: 0;
+	border: 0 none;
+	padding: 0;
+	text-align: center;
+	background-color: black;
+}
+
+#canvas {
+	display: block;
+	margin: 0;
+	color: white;
+}
+
+#canvas:focus {
+	outline: none;
+}
